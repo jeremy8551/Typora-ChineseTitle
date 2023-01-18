@@ -1,1 +1,9 @@
+打开 Typora 的偏好设置
 
+进入外观
+
+点击右侧的 “打开主体文件夹” 按钮
+
+将 base.user.css 和 github.user.css 文件复制到 themes 目录下
+
+重启 Typora
