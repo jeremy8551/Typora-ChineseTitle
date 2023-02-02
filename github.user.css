@@ -1,0 +1,26 @@
+
+content {
+  background-color: #fff;
+}
+
+#write {
+  background-color: #fff;
+}
+
+#write img {
+  border: 1px solid rgb(229, 229, 229);
+}
+
+#typora-sidebar {
+  background-color: #fff !important;
+}
+
+/* 行内代码高亮颜色 */
+code {
+  background-color: gray;
+  color: white;
+}
+
+.md-heading code, #typora-sidebar code {
+  color: inherit;
+}
