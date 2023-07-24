@@ -1,9 +1,25 @@
-打开 Typora 的偏好设置
+# Typora编辑器配置文件
 
-进入外观
+#### 介绍
+在大纲、提纲、正文中使用中文风格的标题：
 
-点击右侧的 “打开主体文件夹” 按钮
+一、标题  <br/>
+&nbsp;&nbsp;1.1 二级标题   <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 三级标题  <br/>
 
-将 base.user.css 和 github.user.css 文件复制到 themes 目录下
 
-重启 Typora
+#### 软件架构
+Typora编辑器的配置文件
+
+
+#### 安装教程
+
+1）打开 Typora 的偏好设置
+
+2）进入外观
+
+3）点击右侧的 “打开主体文件夹” 按钮
+
+4）将 base.user.css 和 github.user.css 文件复制到 themes 目录下
+
+5）重启 Typora
